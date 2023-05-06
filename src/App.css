@@ -8,7 +8,10 @@
 
 img {
   width: 100%;
-  height: 100%;
+}
+
+strong {
+  color: teal;
 }
 
 h1 {
@@ -17,15 +20,37 @@ h1 {
   margin: 2rem;
 }
 
+button {
+  background-color: teal;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+}
+
 .navbar {
   background-color: teal;
   color: white;
   display: flex;
-  justify-content: center;
+  justify-content: right;
   align-items: center;
   gap: 50px;
-  padding: 10px;
+  padding: 10px 50px;
   box-shadow: 0 0 1rem teal;
   position: sticky;
   top: 0px;
+}
+
+.searchDiv {
+  display: flex;
+}
+
+.navbar input {
+  padding: 0.5rem;
+  color: black;
+  border-radius: 0.3rem;
+}
+
+.searchBtn {
+  background-color: grey;
+  padding: 0.5rem;
 }

@@ -8,30 +8,8 @@
       "year": 2009,
       "genre": "sci-fi",
       "synopsis": "When his brother is killed in a robbery, paraplegic Marine Jake Sully decides to take his place in a mission on the distant world of Pandora. There he learns of greedy corporate figurehead Parker Selfridge's intentions of driving off the native humanoid Navi in order to mine for the precious material scattered throughout their rich woodland. In exchange for the spinal surgery that will fix his legs, Jake gathers knowledge, of the Indigenous Race and their Culture, for the cooperating military unit spearheaded by gung-ho Colonel Quaritch, while simultaneously attempting to infiltrate the Na'vi people with the use of an 'avatar' identity. While Jake begins to bond with the native tribe and quickly falls in love with the beautiful alien Neytiri, the restless Colonel moves forward with his ruthless extermination tactics, forcing the soldier to take a stand - and fight back in an epic battle for the fate of Pandora.",
-      "cast": ["Sam Worthington", "Zoey Saldana", "Sigourney Weaver"],
-      "ratings": 7.9
-    },
-    {
-      "id": 2,
-      "title": "Interstellar",
-      "image": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._SL1500_.jpg",
-      "director": "Christopher Nolan",
-      "year": 2014,
-      "genre": "sci-fi",
-      "synopsis": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
-      "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
-      "ratings": 8.6
-    },
-    {
-      "id": 3,
-      "title": "The Pursuit of Happyness",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_FMjpg_UX1000_.jpg",
-      "director": "Gabriele Muccino",
-      "year": 2006,
-      "genre": "biography",
-      "cast": ["Will Smith", "Thandiwe Newton", "Jaden Smith"],
-      "ratings": 8.0,
-      "synopsis": "Based on a true story about a man named Christopher Gardner. Gardner has invested heavily in a device known as a 'bone density scanner'. He feels like he has it made selling these devices. However, they do not sell well as they are marginally better than x-ray at a much higher price. As Gardner works to make ends meet, his wife leaves him and he loses his apartment. Forced to live out in the streets with his son, Gardner continues to sell bone density scanners while concurrently taking on an unpaid internship as a stockbroker, with slim chances for advancement to a paid position. Before he can receive pay, he needs to outshine the competition through 6 months of training, and to sell his devices to stay afloat."
+      "actor": "Sam Worthington",
+      "ratings": "8.1"
     },
     {
       "id": 4,
@@ -40,7 +18,7 @@
       "director": "Christopher Nolan",
       "year": 2010,
       "genre": "sci-fi",
-      "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+      "actor": "Leonardo DiCaprio",
       "ratings": 8.8,
       "synopsis": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming."
     },
@@ -51,8 +29,8 @@
       "director": "Christopher Nolan",
       "year": 2008,
       "genre": "action",
-      "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
-      "ratings": 9.0,
+      "actor": "Christian Bale",
+      "ratings": 9,
       "synopsis": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as 'The Joker' appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to 'confront everything he believes' and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes."
     },
     {
@@ -62,7 +40,7 @@
       "director": "James Cameron",
       "year": 1997,
       "genre": "drama",
-      "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "actor": "Leonardo DiCaprio",
       "ratings": 7.9,
       "synopsis": "84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning."
     },
@@ -73,7 +51,7 @@
       "director": "Sam Raimi",
       "year": 2002,
       "genre": "action",
-      "cast": ["Tobey Maquire", "Kirsten Dunst", "Willem Dafoe"],
+      "actor": "Tobey Maquire",
       "ratings": 7.4,
       "synopsis": "Based on Marvel Comics' superhero character, this is a story of Peter Parker who is a nerdy high-schooler. He was orphaned as a child, bullied by jocks, and can't confess his crush for his stunning neighborhood girl Mary Jane Watson. To say his life is 'miserable' is an understatement. But one day while on an excursion to a laboratory a runaway radioactive spider bites him... and his life changes in a way no one could have imagined. Peter acquires a muscle-bound physique, clear vision, ability to cling to surfaces and crawl over walls, shooting webs from his wrist ... but the fun isn't going to last. An eccentric millionaire Norman Osborn administers a performance enhancing drug on himself and his maniacal alter ego Green Goblin emerges. Now Peter Parker has to become Spider-Man and take Green Goblin to the task... or else Goblin will kill him. They come face to face and the war begins in which only one of them will survive at the end."
     },
@@ -84,7 +62,7 @@
       "director": "Chad Stahelski",
       "year": 2014,
       "genre": "action",
-      "cast": ["Keanu Reeves", "Michael Nyqvist", "Alfie Allen"],
+      "actor": "Keanu Reeves",
       "ratings": 7.4,
       "synopsis": "With the untimely death of his beloved wife still bitter in his mouth, John Wick, the expert former assassin, receives one final gift from her--a precious keepsake to help John find a new meaning in life now that she is gone. But when the arrogant Russian mob prince, Iosef Tarasov, and his men pay Wick a rather unwelcome visit to rob him of his prized 1969 Mustang and his wife's present, the legendary hitman will be forced to unearth his meticulously concealed identity. Blind with revenge, John will immediately unleash a carefully orchestrated maelstrom of destruction against the sophisticated kingpin, Viggo Tarasov, and his family, who are fully aware of his lethal capacity. Now, only blood can quench the boogeyman's thirst for retribution."
     },
@@ -95,11 +73,7 @@
       "director": "Brad Anderson",
       "year": 2004,
       "genre": "drama",
-      "cast": [
-        "Christian Bale",
-        "Jennifer Jason Leigh",
-        "Aitana Sánchez-Gijón"
-      ],
+      "actor": "Christian Bale",
       "ratings": 7.7,
       "synopsis": "Trevor Reznik is a machinist in a factory. An extreme case of insomnia has led to him not sleeping in a year, and his body withering away to almost nothing. He has an obsessive compulsion to write himself reminder notes and keep track of his dwindling weight, both scribbled on yellow stickies in his apartment. The only person he lets into his life in an emotional sense is Stevie, a prostitute, although he has an infatuation with Maria, a single mother waitress working in an airport diner. His co-workers don't associate with and mistrust him because of not knowing what is going on in his life that has led to his emaciated physical appearance. A workplace incident further alienates him with his coworkers, and in conjunction with some unfamiliar pieces of paper he finds in his apartment, Trevor believes that someone or some people - probably one or some of his coworkers - are out to get him, using a phantom employee named Ivan as their front. As Trevor goes on a search for evidence as to Ivan's schemes and whereabouts, Trevor may come to a true understanding of what has caused his insomnia."
     },
@@ -110,7 +84,7 @@
       "director": "Ang Lee",
       "year": 2012,
       "genre": "drama",
-      "cast": ["Suraj Sharma", "Irrfan Khan", "Adil Hussain"],
+      "actor": "Suraj Sharma",
       "ratings": 7.9,
       "synopsis": "In Canada, a writer visits the Indian storyteller Pi Patel and asks him to tell his life story. Pi tells the story of his childhood in Pondicherry, India, and the origin of his nickname. One day, his father, a zoo owner, explains that the municipality is no longer supporting the zoo and he has hence decided to move to Canada, where the animals the family owns would also be sold. They board on a Japanese cargo ship with the animals and out of the blue, there is a storm, followed by a shipwrecking. Pi survives in a lifeboat with a zebra, an orangutan, a hyena and a male Bengal tiger nicknamed Richard Parker. They are adrift in the Pacific Ocean, with aggressive hyena and Richard Parker getting hungry. Pi needs to find a way to survive."
     },
@@ -121,7 +95,7 @@
       "director": "James Marsh",
       "year": 2014,
       "genre": "biography",
-      "cast": ["Eddie Redmayne", "Felicity Jones", "Tom Prior"],
+      "actor": "Eddie Redmayne",
       "ratings": 7.7,
       "synopsis": "The Theory of Everything is the story of the most brilliant and celebrated physicist of our time, Stephen Hawking, and Jane Wilde, the arts student he fell in love with while studying at Cambridge in the 1960s. Little was expected from Hawking, a bright but shiftless student of cosmology, after he was given just two years to live following the diagnosis of a fatal illness (ALS) at 21 years of age. He became galvanized, however, by the love Jane Wilde, and went on to be called the 'successor to Einstein,' as well as a husband and father to their three children. Over the course of their marriage, however, as Stephen's body collapsed and his academic renown soared, fault lines were exposed that tested the resolve of their relationship and dramatically altered the course of both of their lives."
     },
@@ -132,9 +106,42 @@
       "director": "Tom Hooper",
       "year": 2015,
       "genre": "biography",
-      "cast": ["Eddie Redmayne", "Alicia Vikander", "Amber Heard"],
+      "actor": "Eddie Redmayne",
       "ratings": 7.1,
       "synopsis": "Copenhagen, Denmark, 1926. Einar Wegener (played by Eddie Redmayne) and his wife Gerda (Alicia Vikander) are a happily married couple. Both are artists, Einar preferring landscapes and she portraits. One day Einar poses for a portrait of Gerda's while wearing a dress. This is initially done as a lark, as is the later attendance at a party dressed as a woman. However, Einar soon discovers that she is in fact a woman and over time prefers being Lili. At first she and Gerda try to have her situation 'cured' but this leads nowhere (other than to many doctors trying to have Lili locked up as a pervert and/or lunatic). Her voyage of self-discovery will ultimately lead to her undergoing the first ever sex-change operation."
+    },
+    {
+      "title": "Men in Black",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Men_in_Black_Poster.jpg",
+      "director": " Barry Sonnenfeld",
+      "year": "1996",
+      "genre": "action",
+      "ratings": "7.3",
+      "actor": "Will Smith",
+      "synopsis": "Based off of the comic book. Unbeknownst to other people, there is a private agency code named MiB. This agency is some kind of extra terrestrial surveillance corporation. Then, one of the agency's finest men only going by the name \"K\" (Tommy Lee Jones) , is recruiting for a new addition to the agency. He has chosen James Edwards (Will Smith) of the N.Y.P.D. Then, one day, a flying saucer crashes into Earth. This was an alien a part of the \"Bug\" race. He takes the body of a farmer (Vincent D'Onofrio) and heads to New York. He is searching for a super energy source called \"The Galaxy\". Now, Agents J and K must stop the bug before it can escape with the galaxy.",
+      "id": 13
+    },
+    {
+      "title": "Deadpool",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
+      "director": " Tim Miller",
+      "year": "2016",
+      "genre": "action",
+      "ratings": "8.0",
+      "actor": "Ryan Reynolds",
+      "synopsis": "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+      "id": 14
+    },
+    {
+      "title": "Joker",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "director": " Todd Phillips",
+      "year": "2019",
+      "genre": "thriller",
+      "ratings": "8.4",
+      "actor": "Joaquin Phoenix",
+      "synopsis": "A socially inept clown for hire - Arthur Fleck aspires to be a stand up comedian among his small job working dressed as a clown holding a sign for advertising. He takes care of his mother- Penny Fleck, and as he learns more about his mental illness, he learns more about his past. Dealing with all the negativity and bullying from society he heads downwards on a spiral, in turn showing how his alter ego \"Joker\", came to be.",
+      "id": 15
     }
   ]
 }

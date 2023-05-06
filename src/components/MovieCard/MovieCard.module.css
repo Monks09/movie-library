@@ -1,11 +1,10 @@
 .MovieCard {
     box-shadow: 0 0 1rem black;
     padding: 1rem;
-    height: 70vh;
 }
 
-.movieImage {
-    height: 70%;
+.MovieCard img {
+    height: 300px;
 }
 
 .MovieCard h3 {
@@ -16,4 +15,20 @@
 
 .movieInfo {
     margin-top: 1rem;
+}
+
+.movie_details_link {
+    color: green;
+}
+
+.buttonsDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttonsDiv button {
+    background-color: teal;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
 }

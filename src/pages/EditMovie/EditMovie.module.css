@@ -1,0 +1,30 @@
+.EditMovie {
+    padding-bottom: 2rem;
+}
+
+form {
+    width: 50%;
+    margin: auto;
+    box-shadow: 0 0 10px teal;
+    padding: 2rem;
+}
+
+.form_element {
+    margin: 1rem 0;
+}
+
+.form_element input,
+.form_element textarea {
+    padding: 0.5rem;
+    width: 100%;
+    border-radius: 0.5rem;
+    color: black;
+}
+
+input[type="submit"] {
+    background-color: teal;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}

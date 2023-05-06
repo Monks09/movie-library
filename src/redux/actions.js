@@ -1,6 +1,6 @@
-export function fetchMoviesThunkActionCreator() {
+export function fetchMoviesThunkActionCreator(url) {
     return async function (dispatch, getState) {
-        let res = await fetch(`http://localhost:3000/movies`);
+        let res = await fetch(url);
         let data = await res.json();
         console.log(data);
         dispatch({

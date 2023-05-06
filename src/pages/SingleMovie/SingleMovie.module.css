@@ -1,0 +1,26 @@
+.SingleMovie {
+    padding-bottom: 2rem;
+}
+
+.movie_details_div {
+    width: 50vw;
+    margin: auto;
+    box-shadow: 0 0 10px teal;
+    padding: 2rem;
+}
+
+.movie_details_div h3 {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.movie_details_div img {
+    width: 100%;
+    margin: auto;
+}
+
+.movie_details_div>div:nth-child(2) {
+    margin-top: 1rem;
+    text-align: left;
+}
