@@ -1,0 +1,19 @@
+.MovieCard {
+    box-shadow: 0 0 1rem black;
+    padding: 1rem;
+    height: 70vh;
+}
+
+.movieImage {
+    height: 70%;
+}
+
+.MovieCard h3 {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.movieInfo {
+    margin-top: 1rem;
+}
