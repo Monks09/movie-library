@@ -38,7 +38,7 @@ function AddMovie(props) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    let res = await fetch(`http://localhost:3000/movies`, {
+    let res = await fetch(` https://fierce-gown-colt.cyclic.app/movies`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

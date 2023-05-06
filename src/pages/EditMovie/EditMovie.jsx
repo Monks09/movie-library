@@ -40,7 +40,7 @@ function EditMovie(props) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    let res = await fetch(`http://localhost:3000/movies/${id}`, {
+    let res = await fetch(` https://fierce-gown-colt.cyclic.app/movies/${id}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",

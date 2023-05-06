@@ -18,7 +18,7 @@ function Home(props) {
   useEffect(() => {
     dispatch(
       fetchMoviesThunkActionCreator(
-        `http://localhost:3000/movies?_sort=year,ratings&_order=${yearFilter},${ratingFilter}`
+        ` https://fierce-gown-colt.cyclic.app/movies?_sort=year,ratings&_order=${yearFilter},${ratingFilter}`
       )
     );
   }, [ratingFilter, yearFilter]);

@@ -32,7 +32,7 @@ function MovieCard({ id, image, title, director, year }) {
   };
 
   const deleteMovie = async () => {
-    let res = await fetch(`http://localhost:3000/movies/${id}`, {
+    let res = await fetch(` https://fierce-gown-colt.cyclic.app/movies/${id}`, {
       method: "DELETE",
       headers: {
         "Content-Type": "application/json",
